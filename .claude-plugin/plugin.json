@@ -1,0 +1,12 @@
+{
+  "name": "convertsite",
+  "version": "1.0.0",
+  "description": "Build, edit and publish conversion-focused ConvertSite websites and embeds (calculators, quote tools, forms, configurators) with Claude, including recreating an explicitly supplied visual reference.",
+  "author": {
+    "name": "Stay Bold B.V.",
+    "email": "support@convertsite.com",
+    "url": "https://www.convertsite.com"
+  },
+  "homepage": "https://www.convertsite.com/help/connect-convertsite-mcp-to-claude-jcsb7",
+  "keywords": ["convertsite", "website builder", "landing pages", "calculators", "embeds", "conversion"]
+}
